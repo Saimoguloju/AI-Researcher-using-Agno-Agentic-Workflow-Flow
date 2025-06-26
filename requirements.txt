@@ -3,3 +3,5 @@ openai
 requests 
 beautifulsoup4
 streamlit
+plotly
+pandas
