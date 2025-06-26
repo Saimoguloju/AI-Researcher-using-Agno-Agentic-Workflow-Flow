@@ -2,3 +2,4 @@ agno
 openai 
 requests 
 beautifulsoup4
+streamlit
